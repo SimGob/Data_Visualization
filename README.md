@@ -15,7 +15,7 @@ Exporter pour chacune des types de variables (nominale, ordonnée et quantitativ
 
 Exercice 2 : reproduire par vous même les graphes que vous aurez exportés dans l'exercice 1.
 
-### Installation
+## Installation
 
 import pandas as pd (pour l'exportation des données)
 from PIL import Image, ImageDraw (pour l'affichage des images au format .png)
